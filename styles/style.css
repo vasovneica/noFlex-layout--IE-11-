@@ -39,11 +39,6 @@ body {
   margin: 0 auto;
 }
 
-/* .adaptive>* {
-  padding: 10px;
-  color: #eee;
-  background: #42414D;
-} */
 .adaptive {
   padding: 10px;
   color: #eee;
@@ -83,14 +78,6 @@ body {
   color: #eee;
 }
 
-/* .main{
-  min-height: 100%;
-  padding: 75px 15px 15px 15px;
-}
-.main-inside{
-  padding: 20px;
-  padding-bottom: 50px;
-} */
 .cards {
   margin: 0 auto;
 }
@@ -169,7 +156,6 @@ body {
 
 .footer {
   min-height: 100px;
-  /* margin-top: -50px; */
 
   background: #7C7B82;
   color: #23222B;
@@ -232,10 +218,6 @@ body {
     width: 480px;
   }
 
-  .header {}
-
-  .posts {}
-
   .card {
     max-width: 80%;
   }
@@ -274,8 +256,6 @@ body {
   .header .menu a:last-child {
     margin-bottom: 0;
   }
-
-  .posts {}
 
   .card-desc {
     font-size: 14px;
